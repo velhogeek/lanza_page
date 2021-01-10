@@ -26,7 +26,7 @@ export default function Home() {
 
           <a href="#" className={styles.card}>
             <h3>Habilidades &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>...</p>
           </a>
 
           <a
@@ -45,6 +45,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <p>Devo agradecer</p>
+        <br>
         <ul>
           <li><a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"

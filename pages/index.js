@@ -45,7 +45,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <p>Devo agradecer</p>
-        <br>
+        <br></br>
         <ul>
           <li><a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
